@@ -1,0 +1,6 @@
+owner=423793817624379392
+prefix=!!
+game=MOA | !play
+stayinchannel=true
+songinstatus=false
+token=CBMpp_v3WdMj27im8eF0Zv023Lu8yJgp
